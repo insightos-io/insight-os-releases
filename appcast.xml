@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Insight OS</title>
+        <item>
+            <title>0.6.0</title>
+            <pubDate>Mon, 07 Jul 2025 23:51:31 +0000</pubDate>
+            <sparkle:version>1751931830</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/insightos-io/insight-os-releases/releases/download/v0.6.0/InsightOS.dmg" length="1127820" type="application/octet-stream" sparkle:edSignature="blPGHwv5SjNRzCZoLwalfq9VzhSDIXOvVaxKW5pUM+aRNTdS3izcPCbfc19St33Ht2Gchhqb9wwYq1zKYgGQBQ=="/>
+        </item>
+    </channel>
+</rss>
