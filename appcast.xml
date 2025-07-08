@@ -3,6 +3,14 @@
     <channel>
         <title>Insight OS</title>
         <item>
+            <title>0.9.0</title>
+            <pubDate>Tue, 08 Jul 2025 15:22:18 +0000</pubDate>
+            <sparkle:version>1751987814</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/insightos-io/insight-os-releases/releases/download/v0.9.0/InsightOS.dmg" length="1159181" type="application/octet-stream" sparkle:edSignature="LJgO1o9GQJ1UrLgcKkfBNxPsRDeSHpa3JP80wY9eh48tHtzqmmWasODh6/g86sU5ONgFw5MY2C6FKDrT12yOBQ=="/>
+        </item>
+        <item>
             <title>0.8.0</title>
             <pubDate>Tue, 08 Jul 2025 14:19:35 +0000</pubDate>
             <sparkle:version>1751984202</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/insightos-io/insight-os-releases/releases/download/v0.7.0/InsightOS.dmg" length="1129301" type="application/octet-stream" sparkle:edSignature="iD4aIQBUlMxeIYQPZQHg6zwayV+IzhyrsDoblmpCvl0dZHK8er4pYIA0+Wun8FegChWlSTpz2ofZ/lcukqV9Dw=="/>
-        </item>
-        <item>
-            <title>0.6.0</title>
-            <pubDate>Mon, 07 Jul 2025 23:51:31 +0000</pubDate>
-            <sparkle:version>1751931830</sparkle:version>
-            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/insightos-io/insight-os-releases/releases/download/v0.6.0/InsightOS.dmg" length="1127820" type="application/octet-stream" sparkle:edSignature="blPGHwv5SjNRzCZoLwalfq9VzhSDIXOvVaxKW5pUM+aRNTdS3izcPCbfc19St33Ht2Gchhqb9wwYq1zKYgGQBQ=="/>
         </item>
     </channel>
 </rss>
